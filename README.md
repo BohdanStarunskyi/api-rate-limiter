@@ -1,3 +1,5 @@
+# API Tracker
+
 The **API Tracker** is a powerful and efficient application designed to monitor and manage API usage, ensuring that clients adhere to usage limits and optimizing database storage. It implements a rate limiting mechanism to control the number of requests made by clients within a specified time frame, preventing overuse or abuse of the API. In addition, the application logs all API requests and provides a periodic cleanup process to maintain optimal performance and prevent excessive data accumulation.
 
 ### Key Features:
